@@ -1,0 +1,25 @@
+.nav-link:hover{
+    color: white;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #506a92;
+}
+
+#features{
+    background-color: #b7c6df;
+}
+
+#quantity {
+    background-color: #506a92;
+}
+
+#time {
+    background-color: #b7c6df;
+    
+}
+
+section {
+    padding-top: 5rem;
+}
